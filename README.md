@@ -1,0 +1,33 @@
+## 100 Days Breakdown
+
+| Day   | Title                              | Topics Covered                                                                 |
+|-------|------------------------------------|--------------------------------------------------------------------------------|
+| Day 15 | Working with CSV Files             | Handling CSV files, reading and writing data                                     |
+| Day 16 | Working with JSON and SQL          | Working with JSON data and SQL databases                                        |
+| Day 17 | API to DataFrame                   | Converting data from an API to a DataFrame                                       |
+| Day 18 | Pandas DataFrame Using Web Scraping | Creating a DataFrame from web scraped data                                      |
+| Day 19 | Understanding Your Data Descriptive Stats | Descriptive statistics and summarizing your data                                |
+| Day 20 | Univariate Analysis                | Analyzing single variables in your dataset                                      |
+| Day 21 | Bivariate Analysis                 | Analyzing relationships between two variables                                   |
+| Day 22 | Pandas Profiling                   | Generating a detailed report on your DataFrame                                  |
+| Day 24 | Standardization                    | Scaling features to have a mean of 0 and a standard deviation of 1             |
+| Day 25 | Normalization                      | Scaling features to a specific range, typically [0, 1]                         |
+| Day 26 | Ordinal Encoding                   | Converting categorical variables with an order into numerical data             |
+| Day 27 | One Hot Encoding                   | Converting categorical variables without an order into binary features         |
+| Day 28 | Column Transformer                 | Applying different transformations to different columns in your dataset        |
+| Day 29 | Sklearn Pipelines                  | Creating reusable machine learning workflows with scikit-learn pipelines        |
+| Day 30 | Function Transformer               | Applying custom transformations using `FunctionTransformer` in scikit-learn    |
+| Day 31 | Power Transformer                  | Applying power transformations to stabilize variance and make data more normal |
+| Day 32 | Binning and Binarization           | Converting continuous variables into bins or binary features                   |
+| Day 33 | Handling Mixed Variables           | Managing datasets with mixed types (e.g., numeric and categorical)             |
+| Day 34 | Handling Date and Time             | Working with datetime features in datasets                                     |
+| Day 35 | Complete Case Analysis             | Handling missing data by removing rows with missing values                     |
+| Day 36 | Imputing Numerical Data           | Filling missing numerical data using various imputation techniques             |
+| Day 37 | Handling Missing Categorical Data  | Imputing missing categorical data                                              |
+| Day 38 | Missing Indicator                  | Adding an indicator variable for missing data                                  |
+| Day 39 | KNN Imputer                        | Imputing missing values using the K-Nearest Neighbors algorithm                |
+| Day 40 | Iterative Imputer                  | Using an iterative imputation technique for missing data                       |
+| Day 42 | Outlier Removal Using Zscore Method| Identifying and removing outliers using the Z-score method                     |
+| Day 43 | Outlier Removal Using IQR Method   | Identifying and removing outliers using the Interquartile Range method         |
+| Day 44 | Outlier Detection Using Percentiles | Detecting outliers using percentiles and thresholds                             |
+| Day 45 | Feature Construction and Feature Splitting | Creating new features and splitting existing features for better model performance |
