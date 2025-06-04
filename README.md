@@ -32,4 +32,4 @@
 | Day 44 | Outlier Detection Using Percentiles | Detecting outliers using percentiles and thresholds                             |
 | Day 45 | Feature Construction and Feature Splitting | Creating new features and splitting existing features for better model performance |
 | Day 46 - Day 49 | Principal Component Analysis  | What is PCA, eighen values,vector,variance, covariance, steps in pca |
-| Day 46 - Day 49 | Simple Linear Regression  | Simple Linear Regression from scratch and using sckit learn |
+| Day 50| Simple Linear Regression  | Simple Linear Regression from scratch and using sckit learn |
