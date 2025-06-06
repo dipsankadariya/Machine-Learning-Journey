@@ -33,3 +33,5 @@
 | Day 45 | Feature Construction and Feature Splitting | Creating new features and splitting existing features for better model performance |
 | Day 46 - Day 49 | Principal Component Analysis  | What is PCA, eighen values,vector,variance, covariance, steps in pca |
 | Day 50| Simple Linear Regression  | Simple Linear Regression from scratch and using sckit learn |
+| Day 51|  Regression Metrics | MAE,MSE,RMSE,R2 score, adjusted r2|
+| Day 52| Multiple Linear Regression  | Multiple Linear Regression from scratch and using sckit learn |
