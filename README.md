@@ -36,3 +36,4 @@
 | Day 51|  Regression Metrics | MAE,MSE,RMSE,R2 score, adjusted r2|
 | Day 52| Multiple Linear Regression  | Multiple Linear Regression from scratch and using sckit learn |
 | Day 53| Gradient Descent | GD from scratch and using sckit learn |
+| Day 53| Batch Gradient Descent | Batch GD from scratch and using sckit learn |
