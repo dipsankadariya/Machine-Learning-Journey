@@ -38,3 +38,4 @@
 | Day 53| Gradient Descent | GD from scratch and using sckit learn |
 | Day 54| Batch Gradient Descent | Batch GD from scratch and using sckit learn |
 | Day 55| Stochastic Gradient Descent | Stochastic GD from scratch and using sckit learn |
+| Day 56| Mini  Batch Gradient Descent | Mini  Batch GD from scratch and using sckit learn |
