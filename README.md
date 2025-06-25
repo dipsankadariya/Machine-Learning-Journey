@@ -39,3 +39,5 @@
 | Day 54| Batch Gradient Descent | Batch GD from scratch and using sckit learn |
 | Day 55| Stochastic Gradient Descent | Stochastic GD from scratch and using sckit learn |
 | Day 56| Mini  Batch Gradient Descent | Mini  Batch GD from scratch and using sckit learn |
+| Day 57| Ridge Regressio-Part-01 | Usage of Ridge Regression |
+| Day 58| Polynomial Regression | Applying Polynomial Regression using Custom class and sckit-learn|
