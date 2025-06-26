@@ -42,3 +42,4 @@
 | Day 57| Ridge Regressio-Part-01 | Usage of Ridge Regression |
 | Day 58| Polynomial Regression | Applying Polynomial Regression using Custom class and sckit-learn|
 | Day 59| Ridge Regression-Part-02 | RidgeRegression for N dimensional data |
+| Day 59| Ridge Regression-Part-03 | RidgeRegression for using Gradient descent and key understandings |
