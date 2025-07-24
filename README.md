@@ -43,5 +43,5 @@
 | Day 58| Polynomial Regression | Applying Polynomial Regression using Custom class and sckit-learn|
 | Day 59| Ridge Regression-Part-02 | RidgeRegression for N dimensional data |
 | Day 60| Ridge Regression-Part-03 | RidgeRegression for using Gradient descent and key understandings |
-| Day 61| Lasso Regression-Part-03 | Lasso Regression Regression and key understandings |
-| Day 62| Logistic Regression | Logistic Regression  and key understandings with GD |
+| Day 61| Logistic Regression | Logistic Regression  and key understandings with GD |
+| Day 61| accuracy_score, confusion_matrix, precision, recall, f1 score|
