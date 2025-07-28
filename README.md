@@ -45,3 +45,4 @@
 | Day 60| Ridge Regression-Part-03 | RidgeRegression for using Gradient descent and key understandings |
 | Day 61| Logistic Regression | Logistic Regression  and key understandings with GD |
 | Day 62| accuracy_score, confusion_matrix, precision, recall, f1 score|  Learned model evaluation metrices |
+| Day 63|SoftMax Regression(Multinomial Logisitic regression)| Learned logistic regression for multiclass classification |
