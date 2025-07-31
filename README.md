@@ -47,3 +47,4 @@
 | Day 62| accuracy_score, confusion_matrix, precision, recall, f1 score|  Learned model evaluation metrices |
 | Day 63|SoftMax Regression(Multinomial Logisitic regression)| Learned logistic regression for multiclass classification |
 | Day 64|Voting Ensemble| Learned about voting ensemble for classification and regression |
+| Day 65|Bagging Ensemble| Learned about bagging ensemble for classification and regression |
