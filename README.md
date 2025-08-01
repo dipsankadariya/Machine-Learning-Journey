@@ -48,3 +48,4 @@
 | Day 63|SoftMax Regression(Multinomial Logisitic regression)| Learned logistic regression for multiclass classification |
 | Day 64|Voting Ensemble| Learned about voting ensemble for classification and regression |
 | Day 65|Bagging Ensemble| Learned about bagging ensemble for classification and regression |
+| Day 66|Random Forest | Learned about Random Forest for classificaiton and regression, why random forest performs so well, OOB(out of bag) concept |
